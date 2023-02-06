@@ -1,0 +1,103 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<contatos xmlns:c="https://ifto.edu.br/exemplo">
+	<contato id="01">
+		<nome>José Silva</nome>
+		<email>josesilva@gmail.com</email>
+		<data_nascimento>
+			<dia>10</dia>
+			<mes>12</mes>
+			<ano>2000</ano>
+		</data_nascimento>
+		<telefones>
+			<telefone_fixo>98123 4321</telefone_fixo>
+			<telefone_movel_1>3223 3434</telefone_movel_1>
+		</telefones>
+	</contato>
+
+	<contato id="02">
+		<nome>Mônica Aparecida</nome>
+		<email>moaparecida@hotmail.com</email>
+		<data_nascimento>
+			<dia>03</dia>
+			<mes>04</mes>
+			<ano>1998</ano>
+		</data_nascimento>
+		<telefones>
+			<telefone_fixo>3225 5123</telefone_fixo>
+			<telefone_movel_1>9999 2222</telefone_movel_1>
+			<telefone_movel_2>9834 9451</telefone_movel_2>
+		</telefones>
+	</contato>
+
+	<contato id="03">
+		<nome>Joaquim Gomes</nome>
+		<email>jgomes@yahoo.co
+m.br</email>
+		<data_nascimento>
+			<dia>25</dia>
+			<mes>08</mes>
+			<ano>1980</ano>
+		</data_nascimento>
+		<telefones>
+			<telefone_fixo>3323 2242</telefone_fixo>
+			<telefone_movel_1>98413 3242</telefone_movel_1>
+		</telefones>
+	</contato>
+
+	<contato id="04">
+		<nome>Ana Soares</nome>
+		<email>anasoares@outlook.com</email>
+		<data_nascimento>
+			<dia>29</dia>
+			<mes>02</mes>
+			<ano>1990</ano>
+		</data_nascimento>
+		<telefones>
+			<telefone_fixo>3234 2345</telefone_fixo>
+			<telefone_movel_1>99841 9896</telefone_movel_1>
+		</telefones>
+	</contato>
+
+	<contato id="05">
+		<nome>Paulo Gustavo</nome>
+		<email>paulogustavo@gmail.com</email>
+		<data_nascimento>
+			<dia>21</dia>
+			<mes>09</mes>
+			<ano>2002</ano>
+		</data_nascimento>
+		<telefones>
+			<telefone_fixo>3276 6578</telefone_fixo>
+			<telefone_movel_1>97898 1390</telefone_movel_1>
+		</telefones>
+	</contato>
+
+	<contato id="06">
+		<nome>Carlos Alfredo</nome>
+		<email>calfredo@uol.com</email>
+		<data_nascimento>
+			<dia>07</dia>
+			<mes>03</mes>
+			<ano>1987</ano>
+		</data_nascimento>
+		<telefones>
+			<telefone_fixo>3134 7900</telefone_fixo>
+			<telefone_movel_1>99701 9718</telefone_movel_1>
+		</telefones>
+	</contato>
+
+	<contato id="07">
+		<nome>Maria Sônia</nome>
+		<email>marsonia@outlook.com</email>
+		<data_nascimento>
+			<dia>15</dia>
+			<mes>10</mes>
+			<ano>1972</ano>
+		</data_nascimento>
+		<telefones>
+			<telefone_fixo>3511 9712</telefone_fixo>
+			<telefone_movel_1>98123 9866</telefone_movel_1>
+		</telefones>
+	</contato>
+</contatos>
