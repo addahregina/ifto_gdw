@@ -1,0 +1,16 @@
+Atividade 24 de março
+criar classe manipulaxml
+	-criardata
+	-criar local
+	
+	
+organizar o codigo
+
+1. não ter xml no servlet (imports, etc), criar classe específica para isso
+instanciar a classe e adicionar os métodos
+Criar pacote servlet, e manipularxml
+
+2. adaptar para um conjunto de notas <notas><nota>...</nota><nota>...</nota></notas>
+
+//adaptar o codigo de listar as notas para carregar uma nota por vez ao invés de todo o arquivo
+
